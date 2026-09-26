@@ -1062,7 +1062,7 @@ textarea {
     height: auto;
     min-height: 48px;
     font-size: 1rem;
-    padding-top: 2%; 
+    padding-top: 5%; 
   }
 
   /* Contact */
@@ -1120,7 +1120,7 @@ textarea {
     font-size: 0.85rem;
   }
   .about-section .about-container .about-text .about-button {
-  padding-top: 2%;
+  padding-top: 5%;
   }
 }
 
