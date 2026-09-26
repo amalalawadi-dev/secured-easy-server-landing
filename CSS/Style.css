@@ -1062,6 +1062,7 @@ textarea {
     height: auto;
     min-height: 48px;
     font-size: 1rem;
+    padding-top: 2%; 
   }
 
   /* Contact */
@@ -1117,6 +1118,9 @@ textarea {
 
   .contact-section .contact-container div a {
     font-size: 0.85rem;
+  }
+  .about-section .about-container .about-text .about-button {
+  padding-top: 2%;
   }
 }
 
